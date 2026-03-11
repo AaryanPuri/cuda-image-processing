@@ -38,4 +38,4 @@ int main()
     cudaFree(d_c);
 
     return 0;
-}z
+}
