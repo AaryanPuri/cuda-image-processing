@@ -15,3 +15,9 @@ This project performs  parallel computation using a CUDA kernel. It demonstrates
 ## How to Run
 
 Compile the program:
+
+## Output
+
+The program compiled and executed using NVCC on an NVIDIA GPU.
+
+![CUDA Output](cuda_output.png)
